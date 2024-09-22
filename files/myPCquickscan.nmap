@@ -1,0 +1,11 @@
+Starting Nmap 7.93 ( https://nmap.org ) at 2023-05-15 20:59 Egypt Daylight Time
+Nmap scan report for 192.168.1.101
+Host is up (0.00091s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+3306/tcp open  mysql
+
+Nmap done: 1 IP address (1 host up) scanned in 0.29 seconds
