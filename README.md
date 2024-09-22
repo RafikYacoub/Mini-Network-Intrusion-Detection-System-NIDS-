@@ -116,4 +116,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 *Rafik Yacoub - CSCE 3313 Spring 2023*
-```
